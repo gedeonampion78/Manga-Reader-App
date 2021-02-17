@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#ff172a</color>
+    <color name="themeColor">#ff172a</color>
+
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#ff172a</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#ff172a</color>
+    <color name="purple_200"></color>
+    <color name="purple_500"></color>
+    <color name="purple_700"></color>
+    <color name="teal_200"></color>
+    <color name="teal_700"></color>
+    <color name="white">#fff</color>
+    <color name="textColor">#121212</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green1">#00bfa5</color>
+    <color name="pink">#D242EC</color>
+    <color name="red2">#F73E7C</color>
+    <color name="lightgrey">#c1c1c1</color>
+</resources>

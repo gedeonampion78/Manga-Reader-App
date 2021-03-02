@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn_send;
     TextView versLoginbtn;
     RequestQueue requestQueue;
-    String insertUrl = "http://192.168.56.1/mangaReader/insertUtilisateur.php";
+    String insertUrl = "http://localhost/mangaReader/insertUtilisateur.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

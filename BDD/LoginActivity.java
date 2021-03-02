@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     EditText pseudo,password;
     TextView versRegisterbtn;
     Button btn_login;
-    String insertUrl = "http://192.168.56.1/mangaReader/loginUtilisateur.php";
+    String insertUrl = "http://localhost/mangaReader/loginUtilisateur.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
